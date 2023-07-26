@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Program for calculation square of a given number.
+//
+
+Console.WriteLine("Введите число: ");
